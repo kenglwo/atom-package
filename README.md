@@ -1,14 +1,9 @@
-# Package Name
-
-## コミットが錯綜したので，リポジトリを新しくしました．
-
-<img width="750" alt="スクリーンショット 2020-04-26 11 28 04" src="https://user-images.githubusercontent.com/39261875/80295873-716ab080-87b1-11ea-9ef0-e08cf858ba27.png">
+# Atom Package for Mimamori Coder
 
 # Requirements
 - ssh
 - git
 - Atom
-
 
 # Installation
 
