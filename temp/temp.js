@@ -1,4 +1,4 @@
-'use babel';
+"use babel";
 
-export const loginName = "otnekoygihs";
-export const serverUrl = "133.30.244.51";
+export const loginName = "transinfo";
+export const serverUrl = "trans-git.cla.kobe-u.ac.jp";
