@@ -13,6 +13,7 @@
   "dependencies": {
     "figlet": "1.0.8",
     "jquery": "3.5.0",
-    "iconv-lite": "0.5.1"
+    "iconv-lite": "0.5.1",
+    "execa": "4.0.2"
   }
 }
