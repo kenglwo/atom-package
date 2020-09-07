@@ -3,7 +3,9 @@
   "main": "./lib/git-hook",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "deserializers": {},
+	"deserializers": {
+    "AuthData": "deserializeAuthData"
+  },
   "keywords": [],
   "repository": "https://github.com/atom/git-hook",
   "license": "MIT",
