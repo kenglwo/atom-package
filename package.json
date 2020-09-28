@@ -1,21 +1,15 @@
 {
-  "name": "git-hook",
+  "name": "codesenderpe1",
   "main": "./lib/git-hook",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Extension to automatically send your code to a server",
 	"deserializers": {
     "AuthData": "deserializeAuthData"
   },
   "keywords": [],
-  "repository": "https://github.com/atom/git-hook",
+  "repository": "https://github.com/kenglwo/atom-package",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {
-    "figlet": "1.0.8",
-    "jquery": "3.5.0",
-    "iconv-lite": "0.5.1",
-    "execa": "4.0.2"
   }
 }
