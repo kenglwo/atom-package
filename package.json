@@ -1,7 +1,7 @@
 {
   "name": "codesenderpe1",
   "main": "./lib/git-hook",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Extension to automatically send your code to a server",
   "deserializers": {
     "AuthData": "deserializeAuthData"
