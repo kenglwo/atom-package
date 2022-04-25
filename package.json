@@ -1,5 +1,5 @@
 {
-  "name": "codesenderpe1",
+  "name": "codesenderpe2",
   "main": "./lib/git-hook",
   "version": "1.9.1",
   "description": "Extension to automatically send your code to a server",
